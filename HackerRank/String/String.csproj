@@ -41,6 +41,7 @@
     <Compile Include="PangramIndex.cs" />
     <Compile Include="AnagramLength.cs" />
     <Compile Include="AngryProfessor.cs" />
+    <Compile Include="Reverese.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

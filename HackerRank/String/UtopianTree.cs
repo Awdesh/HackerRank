@@ -24,4 +24,17 @@ class Solution {
         }
         Console.WriteLine("{0}", height);
     }
+
+	// recursion
+    static int PrintHeightRecursion(int h)
+	{
+		int growth = 0;
+		
+		if(h == 0)
+			return 1;
+		else if(h % 2 == 1)
+			growth += (2 * PrintHeightRecursion(h-1));
+		else
+			growth = growth + (1 * PrintHeightRecursion(h-1);
+	}
 }

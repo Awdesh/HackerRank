@@ -13,8 +13,11 @@ namespace String
 //			AnagramLength al = new AnagramLength ();
 //			int val = al.PrintAnagramLength ("xxxxyyxx");
 
-			AngryProfessor ap = new AngryProfessor ();
-			ap.IsClassCancelled (4, 3);
+//			AngryProfessor ap = new AngryProfessor ();
+//			ap.IsClassCancelled (4, 3);
+
+			Reverese r = new Reverese ();
+			r.ReverseInt (1534236469);
 
 		}
 	}

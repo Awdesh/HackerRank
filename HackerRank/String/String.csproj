@@ -39,6 +39,8 @@
     <Compile Include="FunnyString.cs" />
     <Compile Include="Pangram.cs" />
     <Compile Include="PangramIndex.cs" />
+    <Compile Include="AnagramLength.cs" />
+    <Compile Include="AngryProfessor.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

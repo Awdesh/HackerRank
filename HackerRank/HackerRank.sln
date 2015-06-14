@@ -21,6 +21,6 @@ Global
 		{F0624418-FA21-4097-BA0F-6A7132F38A79}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = HackerRank\HackerRank.csproj
+		StartupItem = String\String.csproj
 	EndGlobalSection
 EndGlobal

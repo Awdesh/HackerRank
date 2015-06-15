@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{3E5346AF-2F05-4CEA-AE5B-206FF4F1CC18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup", "Warmup\Warmup.csproj", "{9B751FA8-4673-40BA-BDD4-C99219165F14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,12 +17,16 @@ Global
 		{3E5346AF-2F05-4CEA-AE5B-206FF4F1CC18}.Debug|x86.Build.0 = Debug|x86
 		{3E5346AF-2F05-4CEA-AE5B-206FF4F1CC18}.Release|x86.ActiveCfg = Release|x86
 		{3E5346AF-2F05-4CEA-AE5B-206FF4F1CC18}.Release|x86.Build.0 = Release|x86
+		{9B751FA8-4673-40BA-BDD4-C99219165F14}.Debug|x86.ActiveCfg = Debug|x86
+		{9B751FA8-4673-40BA-BDD4-C99219165F14}.Debug|x86.Build.0 = Debug|x86
+		{9B751FA8-4673-40BA-BDD4-C99219165F14}.Release|x86.ActiveCfg = Release|x86
+		{9B751FA8-4673-40BA-BDD4-C99219165F14}.Release|x86.Build.0 = Release|x86
 		{F0624418-FA21-4097-BA0F-6A7132F38A79}.Debug|x86.ActiveCfg = Debug|x86
 		{F0624418-FA21-4097-BA0F-6A7132F38A79}.Debug|x86.Build.0 = Debug|x86
 		{F0624418-FA21-4097-BA0F-6A7132F38A79}.Release|x86.ActiveCfg = Release|x86
 		{F0624418-FA21-4097-BA0F-6A7132F38A79}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = String\String.csproj
+		StartupItem = Warmup\Warmup.csproj
 	EndGlobalSection
 EndGlobal

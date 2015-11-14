@@ -2,6 +2,10 @@ using System;
 
 namespace Miscellaneous
 {
+	/*
+	Pangram is a string that contains all the letters
+	of english alphabets.
+	*/
 	public class Pangram
 	{
 		public Pangram ()
